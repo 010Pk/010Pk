@@ -1,16 +1,47 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Mein Bot</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #0f172a;
+      color: white;
+      text-align: center;
+      padding: 60px;
+    }
 
-<!--
-**010Pk/010Pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    h1 {
+      font-size: 40px;
+    }
 
-Here are some ideas to get you started:
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+      display: block;
+      margin: 10px;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    .box {
+      background: #1e293b;
+      padding: 20px;
+      border-radius: 10px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🤖 Mein Discord Bot</h1>
+  <p>Willkommen auf der offiziellen Bot-Seite</p>
+
+  <div class="box">
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="terms.html">Terms of Service</a>
+    <a href="bot.html">Bot Info</a>
+  </div>
+
+</body>
+</html>
